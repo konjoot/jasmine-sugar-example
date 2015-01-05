@@ -15,7 +15,7 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'node_modules/JasmineSugar/dist/JasmineSugar.min.js',
+      'node_modules/jasmine-sugar/dist/jasmine-sugar.js',
       'test/*.coffee'
     ],
 
